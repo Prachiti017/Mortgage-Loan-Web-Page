@@ -1,0 +1,21 @@
+div.a{
+    width: 100vw;
+    border: 1px solid black;
+    height:40vh;
+    justify-content: center;
+    display: flex;
+    background-color: #334a4f;
+}
+
+h1.a{
+        align-content: center;
+        font-family:'Times New Roman', Times, serif;
+        font-size: 55px;
+        color: white;
+        margin-top:180px;
+}
+p.a{
+    font-size:16.6px;
+   
+}
+
